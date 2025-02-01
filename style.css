@@ -17,7 +17,7 @@ nav{
     border-top: 5px solid black;
     justify-content: space-between;
     /* box-shadow: 2px 2px 10px black; */
-    padding: 50px 100px;
+    padding: 30px 100px;
 }
 .white_shadow{
     text-shadow: 2px 2px 10px white;
