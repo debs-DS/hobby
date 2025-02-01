@@ -13,10 +13,10 @@ body{
 nav{
     display: flex;
     width: 100%;
-    background-color:rgb(6, 161, 6);
+    background-color: darkgreen;
     border-top: 5px solid black;
     justify-content: space-between;
-    box-shadow: 2px 2px 10px black;
+    /* box-shadow: 2px 2px 10px black; */
     padding: 20px 100px;
 }
 .white_shadow{
