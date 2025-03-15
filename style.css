@@ -16,7 +16,7 @@ nav{
 ul{
     display: flex;
     list-style-type: none;
-    gap: 100px;
+    gap: 5px;
 }
 h1{
     color: rebeccapurple;
