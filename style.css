@@ -32,6 +32,11 @@ button{
 .flex{
     display: flex;
 }
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px 50px;
+}
 
 @media screen and (max-width:850px){
     /* 480 */
@@ -39,6 +44,9 @@ button{
         display: block;
     }
     .flex{
+        display: block;
+    }
+    .grid{
         display: block;
     }
 }
