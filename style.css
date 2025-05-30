@@ -10,21 +10,21 @@ nav{
     width: 100%;
     padding: 70px;
     display: block;
-    background-color: #b22222;
+    background-color: #ffdede;
     justify-content: space-between;
     text-align: center;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #8b0000;
 }
 h1{
-    color: black;
+    color: #8b0000;
     font-size: 35px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p{
-    font-size: 20px;
+    font-size: 15px;
 }
 button{
-    background-color: #b22222;
+    background-color: #8b0000;
     color: black;
     font-weight: bold;
     border: none;
